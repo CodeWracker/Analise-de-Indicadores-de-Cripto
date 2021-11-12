@@ -7,16 +7,27 @@ Os métodos utilizados aqui serão o NVT, RiskManagement e Stock2Flow. Contudo, 
 
 ### NVT (Network Value to Transactions Ratio)
 Um **NVT** muito alto pode indicar que uma correção está próxima, pois indica que o valor está muito especulativo
-![image](https://user-images.githubusercontent.com/42501669/141523926-8a774e49-4c5f-433c-9b12-1c4b727162a4.png)
+<p align="center" >
+  <img src="https://user-images.githubusercontent.com/42501669/141523926-8a774e49-4c5f-433c-9b12-1c4b727162a4.png" height="400px" width="auto"/>
+  </br>
+  <img src="https://user-images.githubusercontent.com/42501669/141524899-8dedfdfa-03e5-467b-8840-280e47fdd335.png" height="50px" width="auto"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/42501669/141524899-8dedfdfa-03e5-467b-8840-280e47fdd335.png)
 Onde:
 - MA28 -> Média móvel de 28 dias
 - NV -> Valor da rede em dólar
 - TV -> Volume de transações em dólar
 
+#### Gráfico gerado por mim
+Ainda não fiz 😁
 
 ### Stock2Flow
+Isso serve para conseguir um preço "justo" da moeda
+<p align="center" >
+  <img src="https://user-images.githubusercontent.com/42501669/141525446-de1524e5-0bb2-479c-bc65-0f1ae57d9847.png" height="50px" width="auto"/>
+  </br>
+  <img src="https://user-images.githubusercontent.com/42501669/141525506-05b93f3f-a784-4378-aa5e-409e98598a3e.png" height="50px" width="auto"/>
+</p>
 
 
 ### RiskManagement
