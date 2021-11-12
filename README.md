@@ -30,10 +30,28 @@ Isso serve para conseguir um preço "justo" da moeda
 </p>
 
 
-### RiskManagement
+### RiskManagement (Método Cowen)
+
+Este indicador é um pouco mais complicado de se reproduzir, pois o Cowen não disponibiliza a fórmula que ele usa, somente isso é mostrado em seus videos:
+
+<img src="https://user-images.githubusercontent.com/42501669/141526697-ff47c64b-6d1e-43a3-9b97-d03193cbfedc.png" height="50px" width="auto"/>
 
 
+Contudo, se trata de um método capaz de quantizar o risco em entrar em alguma moeda em determinado momento
 
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/42501669/141526756-1202c2a8-a8e8-4d14-99b4-f3dc497430d9.png" height="400px" width="auto"/>
+  </p>
+
+Ele também comenta em seu video que utiliza uma média móvel dos ultimos 50 dias para fazer as contas
+
+<img src="https://user-images.githubusercontent.com/42501669/141526834-4562a422-8b17-4c96-ad28-ede5b52123b6.png" height="40px" width="auto"/>
+
+
+Segundo ele, o ideal seria comprar com riscos de 0~0.4 e vender quando sobe de 0.5 e com certeza se livrar quando está acima de 0.7
+
+Existe um repositório que tentou aplicar este método. Tentarei esmiuçar seu funcionamento e o descreverei aqui.
 
 # Referências
 
