@@ -1,6 +1,28 @@
 # Analise-de-Indicadores-de-Cripto
 Um repositório para explorar alguns indicadores derivados do fluxo de caixa das moedas e, eventualmente, criar um bot para trading com os achados
 
+## Métodos
+
+Os métodos utilizados aqui serão o NVT, RiskManagement e Stock2Flow. Contudo, nem todos possuo as fórmulas, portanto, um dos objetivos deste projeto é elaborar uma forma de calcular estas métricas de forma simples.
+
+### NVT (Network Value to Transactions Ratio)
+Um **NVT** muito alto pode indicar que uma correção está próxima, pois indica que o valor está muito especulativo
+![image](https://user-images.githubusercontent.com/42501669/141523926-8a774e49-4c5f-433c-9b12-1c4b727162a4.png)
+
+![image](https://user-images.githubusercontent.com/42501669/141524899-8dedfdfa-03e5-467b-8840-280e47fdd335.png)
+Onde:
+- MA28 -> Média móvel de 28 dias
+- NV -> Valor da rede em dólar
+- TV -> Volume de transações em dólar
+
+
+### Stock2Flow
+
+
+### RiskManagement
+
+
+
 
 # Referências
 
